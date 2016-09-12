@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "283348772372",
+    "firebase_url": "https://project-73771.firebaseio.com",
+    "project_id": "project-73771",
+    "storage_bucket": "project-73771.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283348772372:android:06d38c089aee6acc",
+        "android_client_info": {
+          "package_name": "io.github.hingeapp.canteenautomation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283348772372-kjsnmne73fo9k44t668dmlvpjf9pogho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5qmg17o8MVUFfbDJWrjgkVM9kg4SWTwA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
